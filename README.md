@@ -2,7 +2,12 @@
 A Portfolio Worth Exploring
 
 ## 📝 About Me
-Hello, I'm Uzair, a recent graduate with a degree in Computer Science. I am passionate about cybersecurity and excited to kick-start my career as a Tier 1 SOC Analyst. With a solid foundation in security principles, incident response, and threat detection, I am eager to apply my knowledge and technical skills to protect organizations from cyber threats. I am a quick learner, highly analytical, thrive in fast-paced environments and committed to continuous learning. 
+I’m a Cybersecurity Engineer, recently transitioned from my role as a Cybersecurity Analyst with over 2 years of hands-on experience in monitoring, detecting, and responding to security threats.
+
+🔐 My background includes:
+Incident Response · Malware Analysis · Vulnerability Management · Risk Assessment · Threat Hunting
+
+🧠 I bring a calm, detail-oriented mindset to high-pressure environments, with strong analytical and communication skills. As a collaborative team player, I bridge the gap between technical complexity and practical execution.
 
 ## 💻 HomeLabs
 
