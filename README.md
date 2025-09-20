@@ -2,7 +2,7 @@
 A Portfolio Worth Exploring
 
 ## 📝 About Me
-I’m a Cybersecurity Engineer, recently transitioned from my role as a Cybersecurity Analyst with over 2 years of hands-on experience in monitoring, detecting, and responding to security threats.
+I’m a **Cybersecurity Engineer**, recently transitioned from my role as a Cybersecurity Analyst with over 2 years of hands-on experience in monitoring, detecting, and responding to security threats.
 
 🔐 My background includes:
 **Incident Response · Malware Analysis · Vulnerability Management · Risk Assessment · Threat Hunting**
@@ -20,8 +20,8 @@ I’m a Cybersecurity Engineer, recently transitioned from my role as a Cybersec
 - Bachelor of Science in Computer Science
 
 ## 📞 Contact Information
-- ✉️ Email: uzairkhn464@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/uzair-khan-708538250/
-- ✍️ https://medium.com/@uzair-khn
+- ✉️ **Email:** uzairkhn464@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/uzair-khan-708538250/
+- ✍️ **Medium:** https://medium.com/@uzair-khn
 
 Feel free to reach out to me for any collaboration or inquiries.
