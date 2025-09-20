@@ -22,5 +22,6 @@ I’m a Cybersecurity Engineer, recently transitioned from my role as a Cybersec
 ## 📞 Contact Information
 - ✉️ Email: uzairkhn464@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/uzair-khan-708538250/
+- ✍️ https://medium.com/@uzair-khn
 
 Feel free to reach out to me for any collaboration or inquiries.
