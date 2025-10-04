@@ -11,6 +11,15 @@ I’m a **Cybersecurity Engineer**, recently transitioned from my role as a Cybe
 
 ## 💼 Projects
 
+### OWASP ZAP Vulnerability Scanning
+
+Scanned intentionally vulnerable web apps (WebGoat and OWASP Juice Shop) using OWASP ZAP GUI to identify security vulnerabilities and generate automated reports.
+
+🔗 [View the full project on GitHub](https://github.com/uAckerman/owasp-zap-vulnerability-assessment-lab)
+
+---
+
+
 ## 📜 Certifications
 - AWS Cloud Quest: Cloud Practitioner (AWS)
 - Certified Network Security Practitioner (SecOps)
