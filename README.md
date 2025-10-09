@@ -15,7 +15,7 @@ I’m a **Cybersecurity Engineer**, recently transitioned from my role as a Cybe
 Scanned intentionally vulnerable web apps (WebGoat and OWASP Juice Shop) using OWASP ZAP GUI to identify security vulnerabilities and generate automated reports.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/owasp-zap-vulnerability-assessment-lab)
 
-### 2- Remix IDE Smart Contract Security Scanning
+### 2- Blockchain Remix IDE Smart Contract Security Scanning
 Performed static analysis on intentionally vulnerable Ethereum smart contracts using Remix IDE with Solidity Static Analysis and MythX plugins to detect security vulnerabilities and generate automated reports.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/blockchain-smart-contract-security-lab)
 
