@@ -25,12 +25,4 @@ Performed static analysis on intentionally vulnerable Ethereum smart contracts u
 - Certified Network Security Practitioner (SecOps)
 - Certified AppSec Practitioner (SecOps)
 
-## 🎓 Education
-- Bachelor of Science in Computer Science
-
-## 📞 Contact Information
-- ✉️ **Email:** uzairkhn464@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/uzair-khan-708538250/
-- ✍️ **Medium:** https://medium.com/@uzair-khn
-
 Feel free to reach out to me for any collaboration or inquiries.
