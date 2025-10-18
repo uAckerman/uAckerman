@@ -24,11 +24,7 @@ Performed static analysis on intentionally vulnerable Ethereum smart contracts u
 🔗 [View the full project on GitHub](https://github.com/uAckerman/blockchain-smart-contract-security-lab)
 
 ## Skills Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,kubernetes,docker,aws,azure,linux,cloudflare,solidity,terraform"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=gitlab,kubernetes,docker,aws,azure,linux,cloudflare,solidity,terraform"/>
 
 ## Certifications
 - AWS Cloud Quest: Cloud Practitioner (AWS)
@@ -36,3 +32,4 @@ Performed static analysis on intentionally vulnerable Ethereum smart contracts u
 - Certified AppSec Practitioner (SecOps)
 
 Feel free to reach out to me for any collaboration or inquiries.
+
