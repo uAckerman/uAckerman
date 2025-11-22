@@ -15,7 +15,7 @@ My background includes:
 Securing AWS resources by managing access with IAM policies, ensuring controlled permissions for users across different environments.  
 🔗 [View the full project on GitHub](https://github.com/uAckerman/Cloud-Security-with-AWS-IAM__Managing-Access-to-AWS-Resources)
 
-### 2- DamnVulnWebApp Protection With Safeline WebAppFirewall
+### 2- DamnVulnWebApp (DVWA) Protection With Safeline WebAppFirewall
 End-to-end web security project deploying SafeLine WAF to protect DVWA, simulating attacks from Kali Linux, monitoring WAF alerts, and creating tailored rules to block malicious traffic and enhance application defense.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/DamnVulnWebApp-Protection-With-Safeline-WebAppFirewall)
 
