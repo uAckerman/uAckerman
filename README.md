@@ -14,19 +14,23 @@ My background includes:
 
 ## Security Projects
 
-### 1- Securing the Development Pipeline Using Amazon Inspector
+### 1- AWS Identity Threat Monitoring & Detection
+Designed and implemented identity-focused security controls in AWS to detect and alert on high-risk activities such as root account usage and IAM access key creation using CloudTrail, CloudWatch, and SNS. 
+🔗 [View the full project on GitHub](https://github.com/uAckerman/AWS-Identity-Threat-Monitoring-Detection)
+
+### 2- Securing the Development Pipeline Using Amazon Inspector
 Developed a secure development pipeline by integrating a application with Amazon Inspector, injecting vulnerabilities such as SQL injection during development commits, and reviewing Inspector alerts to strengthen application security.  
 🔗 [View the full project on GitHub](https://github.com/uAckerman/Securing-the-Development-Pipeline-Using-Amazon-Inspector)
 
-### 2- DamnVulnWebApp (DVWA) Protection With Safeline WebAppFirewall
+### 3- DamnVulnWebApp (DVWA) Protection With Safeline WebAppFirewall
 End-to-end web security project deploying SafeLine WAF to protect DVWA, simulating attacks from Kali Linux, monitoring WAF alerts, and creating tailored rules to block malicious traffic and enhance application defense.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/DamnVulnWebApp-Protection-With-Safeline-WebAppFirewall)
 
-### 3- OWASP ZAP Vulnerability Scanning
+### 4- OWASP ZAP Vulnerability Scanning
 Scanned intentionally vulnerable web apps (WebGoat and OWASP Juice Shop) using OWASP ZAP GUI to identify security vulnerabilities and generate automated reports.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/owasp-zap-vulnerability-assessment-lab)
 
-### 4- Blockchain Remix IDE Smart Contract Security Scanning
+### 5- Blockchain Remix IDE Smart Contract Security Scanning
 Performed static analysis on intentionally vulnerable Ethereum smart contracts using Remix IDE with Solidity Static Analysis and MythX plugins to detect security vulnerabilities and generate automated reports.
 🔗 [View the full project on GitHub](https://github.com/uAckerman/blockchain-smart-contract-security-lab)
 
