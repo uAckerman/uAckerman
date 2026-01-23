@@ -14,8 +14,8 @@ My background includes:
 
 ## Security Projects
 
-### 1- Security Cntrol Reliabilty System
-Built a system that continuously verifies that security controls are actually protecting us, instead of failing without notice.
+### 1- Security Control Reliabilty System
+Built a system that continuously verifies that security controls are actually protecting us, instead of failing without notice.  
 🔗 [View the full project on GitHub](https://github.com/uAckerman/Security-Control-Reliabilty-System)
 
 ### 2- AWS Identity Threat Monitoring & Detection
