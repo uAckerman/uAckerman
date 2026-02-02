@@ -14,8 +14,11 @@ My background includes:
 
 ## Security Projects
 
+### 1. SecureRelease — Secure CI/CD Pipeline with Executive Risk Dashboard
+SecureRelease is a DevSecOps Risk Intelligence platform that embeds **security into CI/CD Pipeline** and converts technical vulnerabilities into business-level release risk. It integrates **SAST, dependency, container, API, and cloud security** with policy-driven release controls. Prometheus and Grafana expose real-time dashboards showing release safety. 🔗 [View the full project on GitHub](https://github.com/uAckerman/SecureRelease-Secure-CI-CD-Pipeline-with-Executive-Risk-Dashboard)
+
 ### 2. Security Control Reliabilty System
-Built a system that continuously verifies that security controls are actually protecting us, instead of failing without notice.  
+Built a system that continuously verifies that **security controls** are actually protecting us, instead of failing without notice.  
 🔗 [View the full project on GitHub](https://github.com/uAckerman/Security-Control-Reliabilty-System)
 
 ### 3. AWS Identity Threat Monitoring & Detection
